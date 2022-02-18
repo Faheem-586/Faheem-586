@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Muhammad Faheem
-- 👀 I’m interested in PHP & JS
-- 🌱 I’m currently learning React & Drupal
+- 👀 I’m experianced in PHP, JS, Laravel, and React.
+- 🌱 I’m currently learning Drupal.
 - 📫 How to reach me: faheem0586@gmail.com
  
