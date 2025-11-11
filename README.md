@@ -1,6 +1,6 @@
 <div style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; line-height: 1.6; color: #222;">
 
-  <h2>💼 About Me</h2>
+  <h2>About Me</h2>
 
   <p>
     I am a <strong>Senior Drupal Developer</strong> with <strong>7 years</strong> of experience in <strong>PHP</strong> and more than 
@@ -16,7 +16,7 @@
     <strong>US, Europe, and Middle East</strong>, ensuring seamless coordination and successful project delivery.
   </p>
 
-  <h3>🧠 Core Technical Expertise</h3>
+  <h3>Core Technical Expertise</h3>
 
   <ul style="list-style-type: square; margin-left: 20px;">
     <li><strong>PHP</strong> – Advanced (7+ years experience)</li>
@@ -27,7 +27,7 @@
     <li><strong>Laravel</strong> – Intermediate (2+ years experience)</li>
   </ul>
 
-  <p><strong>🔗 Online Portfolio:</strong> 
+  <p><strong>🔗 Visit my Online Portfolio:</strong> 
     <a href="https://sites.google.com/view/muhammad-faheem/portfolio" target="_blank">
       https://sites.google.com/view/muhammad-faheem/portfolio
     </a>
